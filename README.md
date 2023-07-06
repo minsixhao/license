@@ -1,4 +1,5 @@
 详细方案：https://jhetux0ycl.feishu.cn/docx/VIdHdcxBFoL3ztxdjK4c0NcqnEd
+
 # 目录文件
 A机器：客户机器
 B机器：授权服务器
